@@ -53,7 +53,9 @@ This project includes steps as follows :
 </p>
  
 7.	Amazon and Myntra channels were the top contributors.
- 
+<p align="center">
+  <img width="600" height="300" src="">
+</p> 
 
 Conclusion:
 -
