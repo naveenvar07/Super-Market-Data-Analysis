@@ -43,7 +43,7 @@ This project includes steps as follows :
  
 4.	Top 10 states :
   <p align="center">
-  <img width="600" height="300" src="">
+  <img width="600" height="300" src="sales pic/Screenshot 2024-02-01 123403.png">
 </p>
  
  
