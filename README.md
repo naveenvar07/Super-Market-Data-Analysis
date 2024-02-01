@@ -42,12 +42,15 @@ This project includes steps as follows :
 </p>
  
 4.	Top 10 states :
+  <p align="center">
+  <img width="600" height="300" src="">
+</p>
  
  
-5.	The adult age group (30-49 yrs) made the most contributions.
+6.	The adult age group (30-49 yrs) made the most contributions.
  
  
-6.	Amazon and Myntra channels were the top contributors.
+7.	Amazon and Myntra channels were the top contributors.
  
 
 Conclusion:
