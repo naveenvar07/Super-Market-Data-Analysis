@@ -29,9 +29,12 @@ This project includes steps as follows :
   
 
 2.	Women  purchase more  then men .
+  <p align="center">
+  <img width="600" height="300" src="">
+</p>
  
 
-3.	In my dataset, the different order statuses are primarily categorized as:
+4.	In my dataset, the different order statuses are primarily categorized as:
 -	92.25% of orders are marked as "Delivered".
 -	The remaining percentage consists of orders that are "Cancelled", "Refunded," or "Returned".
  
