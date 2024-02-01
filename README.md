@@ -22,7 +22,7 @@ This project includes steps as follows :
 📈 Based on the report insights ,here are the outcomes of the sales :-
 1.	In my report, I found that in March there was the highest sales and ordes. while November has the lowest. Additionally, there is a noticeable decline in sales and order quantities after March.
 <p align="center">
-  <img width="600" height="300" src="">
+  <img width="600" height="300" src="sales pic/Screenshot 2024-02-01 123247.png">
 </p>
   
 
