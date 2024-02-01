@@ -49,7 +49,7 @@ This project includes steps as follows :
  
 6.	The adult age group (30-49 yrs) made the most contributions.
  <p align="center">
-  <img width="600" height="300" src="">
+  <img width="600" height="300" src="sales pic/Screenshot 2024-02-01 123441.png">
 </p>
  
 7.	Amazon and Myntra channels were the top contributors.
