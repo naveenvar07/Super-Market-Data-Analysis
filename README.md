@@ -30,7 +30,7 @@ This project includes steps as follows :
 
 2.	Women  purchase more  then men .
   <p align="center">
-  <img width="600" height="300" src="">
+  <img width="600" height="300" src="sales%20pic/Screenshot%202024-02-01%20123204.png">
 </p>
  
 
