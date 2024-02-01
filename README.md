@@ -12,7 +12,8 @@ This project includes steps as follows :
 -	Exploratory data analysis. (EDA)
 -	Data visualization with Dashboard.
 -    Insights.
-  The project also answered important questions such as :-
+
+The project also answered important questions such as :-
 1.	Compare the Sales and orders using chart?
 2.	Who purchased more , men or women in 2022 ?
 3.	What are different order statuses ?
