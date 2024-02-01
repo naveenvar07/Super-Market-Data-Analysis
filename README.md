@@ -69,7 +69,7 @@ In conclusion, We found that the women customers aged 30-49 in Maharashtra, Karn
 
 
 
-## Authors
+## Created by:
 [@Naveen Varshney]( https://github.com/naveenvar07)
 Naveen Varshney – Data Analyst
 
