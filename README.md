@@ -60,7 +60,7 @@ The project also answered important questions such as :-
 
 Conclusion:
 -
-In conclusion, We found that the women customers aged 30-49 in Maharashtra, Karnataka, and Tamil nadu from the  platforms like online shopping,online products etc.Opportunity for the supermarket to enhance sales and customer satisfaction. The success of these initiatives lies in ongoing analysis, adaptation, and a commitment to meeting the evolving needs of the target audience. . According to latest scenario we can say that e-commerce platform has taken huge stake in our day to day life
+In conclusion, We found that the women customers aged 30-49 in Maharashtra, Karnataka, and Tamil nadu from the  platforms like online shopping,online products etc.Opportunity for the supermarket to enhance sales and customer satisfaction. The success of these initiatives lies in ongoing analysis, adaptation, and a commitment to meeting the evolving needs of the target audience. . According to latest scenario we can say that e-commerce platform has taken huge stake in our day to day life.
 
 
 
