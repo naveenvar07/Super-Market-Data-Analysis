@@ -19,6 +19,8 @@ This project includes steps as follows :
 4.	Which are the top 10 states contributing to sales?
 5.	What is the relation between age and gender based on the number of orders?
 6.	Which channel is contributing maximum sales ?
+
+
 📈 Based on the report insights ,here are the outcomes of the sales :-
 1.	In my report, I found that in March there was the highest sales and ordes. while November has the lowest. Additionally, there is a noticeable decline in sales and order quantities after March.
 <p align="center">
